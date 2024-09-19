@@ -59,7 +59,7 @@ Ensure you have the following installed:
 
 4. Set up the PostgreSQL database:
     ```bash
-    npx prisma migrate dev
+    npx neondb push
     ```
 
 5. Start the development server:
